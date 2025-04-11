@@ -46,6 +46,25 @@ A IA pode ser dividida em diferentes abordagens de estudo:
 
 ---
 
+## 📖 Breve Histórico
+
+### 🧐 Quando surgiu o termo IA?
+-  A primeira manifestação oficial de IA foi registrada em 1956 na
+Conferência de Darthmouth.
+
+### 💻 Pesquisadores que contribuíram para a criação do campo da IA:
+-  John McCarthy: cunhou o termo inteligência artificial.
+-  Marvin Minsky: Construiu o primeiro computador com base em redes
+neurais. Descreveu a incapacidade do perceptron simples resolver problemas
+como o XOR.
+-  Nathaniel ROchester: Simulou o comportamento de redes neurais abstratas
+em um computador IBM 704.
+-  Norbert Wiener: Fundador da cibernética. Desenvolveu estudos de sistemas
+autorregulados e formulou o conceito de retroalimentação negativa.
+- Frank Rosenblatt: Inventou o perpectron.
+
+---
+
 ## 🧠 Agente, Função do Agente e Agente Inteligente
 
 - **Agente**: entidade que percebe o ambiente e age sobre ele.
