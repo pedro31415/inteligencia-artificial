@@ -8,6 +8,21 @@ A IA pode ser dividida em diferentes abordagens de estudo:
 
 ---
 
+## 📌 Questões Éticas:
+
+1. Preconceitos e Discriminação em Algoritmos
+2. Privacidade e Segurança de Dados
+3. Autonomia e Controle
+4. Impacto no Mercado de Trabalho
+5. Transparência e Explicabilidade
+6. Responsabilidade e Accountability
+7. Manipulação e Fake News
+8. Ética no Desenvolvimento de IA
+9. Impactos Ambientais
+10. Riscos de Superinteligência e Controle Global
+
+---
+
 ## 📌 Categorias da IA:
 
 ### 1. **Sistemas que pensam como humanos**
